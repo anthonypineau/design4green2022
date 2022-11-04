@@ -23,7 +23,7 @@ main, div {
     background: #39695D;
     color: white;
     font-size: 30px;
-  }
+}
 
 .clear{
     clear:both;
@@ -39,7 +39,6 @@ main, div {
     width: 95%;
     max-width: 1500px;
 }
-
 
 .container {
     width: 95%;
@@ -79,6 +78,8 @@ main, div {
     overflow: hidden;
     transition: all 0.3s ease-out;
     font-size: 14px;
+    text-align: center;
+    vertical-align: middle;
 }
 
 @media screen and (max-width: 1250px){

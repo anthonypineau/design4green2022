@@ -1,3 +1,7 @@
+
+
+
+
 const listeBP = document.querySelector("#listeBP");
 const listeBPChecked = new Array();
 const phases = ["Aucune phase", "Administration", "Conception", "Réalisation", "Acquisition", "Déploiement", "Utilisation", "Maintenance", "Fin de vie", "Revalorisation"];
